@@ -2,7 +2,9 @@
 
 
 
-`/nodebasic` Basic nodeJS examples
+`/nodehttp` Basic http module examples
+
+`/nodefs` Basic fs module examples
 
 `/nodeexpress` NodeJS app development using [express](http://expressjs.com/)
 
